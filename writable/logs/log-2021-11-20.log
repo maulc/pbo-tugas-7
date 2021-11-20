@@ -1,0 +1,8 @@
+CRITICAL - 2021-11-20 14:05:26 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\pbo7\vendor\codeigniter4\framework\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\pbo7\spark(45): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-11-20 14:07:14 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\pbo7\vendor\codeigniter4\framework\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\pbo7\spark(45): require('C:\\xampp\\htdocs...')
+#2 {main}
